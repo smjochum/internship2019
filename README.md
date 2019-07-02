@@ -1,7 +1,6 @@
 # Student Objectives
 
-Learn and familiarize Java Script
-Create working model for Foothill Horticulture department. 
+Create working web app for Foothill Horticulture department. 
 
 
 Work log
